@@ -1,5 +1,5 @@
 Summary:	xmore application
-Summary(pl.UTF-8):   Aplikacja xmore
+Summary(pl.UTF-8):	Aplikacja xmore
 Name:		xorg-app-xmore
 Version:	1.0.1
 Release:	1
