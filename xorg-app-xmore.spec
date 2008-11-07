@@ -2,7 +2,7 @@ Summary:	xmore application
 Summary(pl.UTF-8):	Aplikacja xmore
 Name:		xorg-app-xmore
 Version:	1.0.1
-Release:	2
+Release:	3
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xmore-%{version}.tar.bz2
