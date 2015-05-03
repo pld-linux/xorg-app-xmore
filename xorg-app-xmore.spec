@@ -2,7 +2,7 @@ Summary:	xmore - plain text display program for the X Window System
 Summary(pl.UTF-8):	xmore - program do wyświetlania czystego tekstu dla systemu X Window
 Name:		xorg-app-xmore
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xmore-%{version}.tar.bz2
@@ -51,4 +51,4 @@ rm -rf $RPM_BUILD_ROOT
 %doc COPYING ChangeLog README
 %attr(755,root,root) %{_bindir}/xmore
 %{_datadir}/X11/app-defaults/XMore
-%{_mandir}/man1/xmore.1x*
+%{_mandir}/man1/xmore.1*
